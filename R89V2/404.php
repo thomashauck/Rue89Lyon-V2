@@ -2,7 +2,7 @@
 /**
  * @package WordPress
  * @subpackage Yoko
- *test/rue89v2
+ *test/2/rue89v2
  */
 
 get_header(); ?>
