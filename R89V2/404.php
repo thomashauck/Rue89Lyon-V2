@@ -8,7 +8,7 @@
 get_header(); ?>
 
 //test de changement dans page 404
-
+//test de changement2 dans page 404
 <div id="wrap">
 <div id="main">
 
